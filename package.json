@@ -1,5 +1,5 @@
 {
-  "name": "@pm2/js-api",
+  "name": "pm2t-io-js-api",
   "version": "0.6.1",
   "description": "PM2.io API Client for Javascript",
   "main": "index.js",
